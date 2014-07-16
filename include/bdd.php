@@ -1,0 +1,1 @@
+<?php $host = "localhost"; $user = "ph1823"; $mdp = "legocity1"; $db = "test2"; $etape_1 = "ok"?>
